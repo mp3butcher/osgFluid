@@ -1,0 +1,3 @@
+[submodule "osgFluid"]
+	path = osgFluid
+	url = ssh://mp3butcher@git.code.sf.net/p/osgfluid/code
