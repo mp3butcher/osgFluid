@@ -1,6 +1,6 @@
 # osgFluid
 
-Real-Time MultiScale Fluid Dynamics through adaptative MultiGrid Jacobi Solver
+Real-Time MultiScale Fluid Dynamics through adaptative Jacobi Solver
 
 Just a teaser to my private repo
 
